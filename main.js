@@ -1,5 +1,5 @@
 window.onload = function(){
-	const delay = 500;
+	const delay = 50;
 	setInterval(function(){
 		document.getElementById("counter").innerText ++;
 	}, delay);
